@@ -1,7 +1,8 @@
 {
   "livros": [
   {
-    "id": "978-85-7522-726-8",
+    "id": 1,
+    "isbn": "978-85-7522-726-8",
     "titulo": "Dominando o Android com Kotlin",
     "slug": "dominando-o-android-com-kotlin",
     "autor": "Nelson Glauber",
@@ -12,7 +13,8 @@
     "descricao": "O Android é a plataforma do Google ..."
   },
   {
-    "id": "978-85-7522-714-5",
+    "id": 2,
+    "isbn": "978-85-7522-714-5",
     "titulo": "Introdução à linguagem Python",
     "slug": "introdução-a-linguagem-python",
     "autor": "José Augusto N. G. Manzano",
@@ -23,7 +25,8 @@
     "descricao": "Este livro apresenta a linguagem Python 3 ..."
   },
   {
-    "id": "978-85-7522-691-9",
+    "id": 4,
+    "isbn": "978-85-7522-691-9",
     "titulo": "PHP Programando com Orientação a Objetos",
     "slug": "php-programando-com-orientacao-a-objetos",
     "autor": "Pablo Dall’Oglio",
@@ -34,7 +37,8 @@
     "descricao": "O PHP é uma das linguagens mais utilizadas no mundo ..."
   },
   {
-    "id": "978-85-7522-550-9",
+    "id": 5,
+    "isbn": "978-85-7522-550-9",
     "titulo": "Laravel para ninjas",
     "slug": "laravel-para-ninjas",
     "autor": "Ademir C. Gabardo",
@@ -45,7 +49,8 @@
     "descricao": "As aplicações web modernas têm evoluído rapidamente ..."
   },
   {
-    "id": "978-85-7522-814-2",
+    "id": 6,
+    "isbn": "978-85-7522-814-2",
     "titulo": "Padrões para Kubernetes",
     "slug": "padroes-para-kubernetes",
     "autor": "Bilgin Ibryam / Roland Huß",
